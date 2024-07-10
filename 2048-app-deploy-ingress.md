@@ -17,4 +17,4 @@ kubectl apply -f https://raw.githubusercontent.com/kubernetes-sigs/aws-load-bala
 ```
 
 
-
+2048-game(https://github.com/Madhavilatha93/assests/blob/main/2048-Game.png)
