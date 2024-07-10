@@ -17,4 +17,4 @@ kubectl apply -f https://raw.githubusercontent.com/kubernetes-sigs/aws-load-bala
 ```
 
 
-![Screenshot](https://github.com/Madhavilatha93/assests/blob/main/Screenshot%202024-07-10%20120104)
+![Screenshot 2024-07-10 120104](https://github.com/Madhavilatha93/assests/blob/main/Screenshot%202024-07-10%20120104)
